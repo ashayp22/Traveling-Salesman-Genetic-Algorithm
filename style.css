@@ -1,0 +1,31 @@
+canvas {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #010101;
+}
+body {
+    text-align: center;
+    background: #4AC29A;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #BDFFF3, #4AC29A);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #BDFFF3, #4AC29A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ckground-color: #efefef;
+font-family: 'Merriweather', serif;
+
+}
+
+button {
+  background:    #78f6d2;
+background:    -webkit-linear-gradient(#78f6d2, #00ff78);
+background:    linear-gradient(#78f6d2, #00ff78);
+border-radius: 5px;
+padding:       8px 20px;
+color:         #ffffff;
+display:       inline-block;
+font:          normal 700 24px/1 "Calibri", sans-serif;
+text-align:    center;
+text-shadow:   1px 1px #000000;
+}
+
+p {
+  font-size: 25px;
+}
